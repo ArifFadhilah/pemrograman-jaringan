@@ -1,0 +1,4 @@
+http_port = "1234"
+dir = "."
+ssl_cert_file = "../server.crt"
+ssl_key_file = "../server.key"
